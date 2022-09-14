@@ -16,7 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React Created By Amit Scond Build
-        </a>
+         Build React App
+            </a>
       </header>
     </div>
   );
