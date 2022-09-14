@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Created By Amit
+          Learn React Created By Amit Scond Build
         </a>
       </header>
     </div>
